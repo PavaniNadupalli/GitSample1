@@ -6,9 +6,10 @@ public class DemoGit1 {
 		// TODO Auto-generated method stub
 		
 		String hungry = "yes";
+		
 		if(hungry == "yes")
 		{
-			System.out.println("eat food");
+			System.out.println("have a nice food");
 		}
 		else
 		{
